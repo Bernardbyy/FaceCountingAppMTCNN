@@ -1,4 +1,4 @@
-# FaceCountingAppMTCNN
+# Face Detection and Counting w/ MTCNN + Image Processing 👨‍👩‍👧‍👦🧮
 
 This project aims to develop an advanced face detection system that combines multiple computer vision techniques to improve the accuracy of face detection and counting.
 
