@@ -34,3 +34,7 @@ A PyQt5-based GUI that provides:
   - Face detection visualization with bounding boxes
   - Live face count display
   - Performance monitoring over time
+
+MTCNN Face Counting App Sample Output: 
+![image](https://github.com/user-attachments/assets/48bfd568-61e0-4e01-bbd5-bd2d7710c89d)
+
